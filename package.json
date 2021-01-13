@@ -1,0 +1,30 @@
+{
+  "name": "@meforma/vue-wait-for",
+  "version": "0.0.1",
+  "description": "A loader manager for vuejs 3 with reactive method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeForma/vue-wait-for.git"
+  },
+  "keywords": [
+    "wait",
+    "waiting",
+    "loader",
+    "management",
+    "manager",
+    "vue-wait",
+    "vue",
+    "vue3",
+    "js"
+  ],
+  "author": "@jprodrigues70",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MeForma/vue-wait-for/issues"
+  },
+  "homepage": "https://github.com/MeForma/vue-wait-for#readme"
+}
