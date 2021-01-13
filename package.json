@@ -1,6 +1,6 @@
 {
   "name": "@meforma/vue-wait-for",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A loader manager for vuejs 3 with reactive method",
   "main": "index.js",
   "scripts": {
